@@ -22,5 +22,48 @@ Ao final do levantamento de requisitos temos, um documento contendo todos os req
 Obs: O documento não pode conter as soluções técnicas (trechos de códigos, algoritmos) que serão adotadas no desenvolvimento do sistema.
 O documento de requisitos estabelece o escopo do sistema (o que faz parte e o que não faz parte do sistema).
 
+Atividades do Levantamento de Requisitos
+Há três tipos de atividades realizadas no processo de levantamento de requisitos:
+Elicitação dos requisitos - Comunicação com os stakeholders para determinar quais são os requisitos do sistemas.
+Análiste de requisitos – determina o estado dos requisitos (inacabado, incompleto, ambíguo, contraditório) e resolve estes problemas.
+Registro dos requisitos – Documentar os requisitos de várias formas, como usando em linguagem natural, em casos de uso, ou ainda em processos de especificação. 
+
+
+O que são requisitos funcionais (RF)? Exemplos
+É um requisito que especifica o que o sistema deve fazer. Sem a implementação desses requisitos , o sistema não funciona como deveria – se chegar a funcionar. Ele deve ser listado em linguagem natural e numera utilizando algum tipo de nomenclatura.
+Por exemplo, num sistema de gestão acadêmica:
+[RF001] O sistema deve permitir que oa professores façam o lançamento de notas e faltas  dos alunos.
+[RF002] O sistema dever permitir a emissão de histórico escolar. 
+[RF003] Deve ser possível calcular as notas médias para cada disciplina.
+
+O que são requisitos não funcionais (RF)? Exemplos
+Os requisitos não funcionais também tem a sua importancia, indicam características, atributos e qualidade  que o sistema deve possuir e que estão relacionadas às funcionalidades previstas; não são as funcionalidades. Algumas dessas caracterísitcas são:
+Desempenho
+Confiabilidade
+Escalabilidade
+Portabilidade
+Usabilidade
+Segurança
+O critérios que qualificam os requisitos nã-funcionais são geralmente mensuráveis. Requisitos não-funcionais, sistema de gestão acadêmica:
+[RNF001] - Histórico escolar pode ser impresso em PDF;
+[RNF002] - O sistema deve ser implementado em linguagem Python;
+[RNF003] - O acesso ao sistema não deve demorar mas do que 10 segundos;	
+
+Requisitos Funcionais              
+Mandatórios					
+Visualizados em caso de uso
+Funcionalidade do produto
+Relativamente fáceis de descobir
+Verbos
+Necessidades do negócio
+
+  Requisitos Não-Funcionais
+Não mandatórios
+Atributos (caracterísiticas)
+Propriedades  do produto
+Mais difíceis de descobrir
+Expectativas do negócio
+
+Dê 2 exemplos de trade-offs de requisitos não funcionais:
 
 
