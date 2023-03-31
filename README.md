@@ -1,4 +1,5 @@
 O que é Engenharia de Software?
+  Engenharia de softwae é uma área da tecnologia da informação que se refere ao desenvolvimento, criação e manutenção de sistemas para computadores, com aplicações  prátricas e  implmentações; 
 
 O que é Engenheiro de software e sua relação com programação?
 
@@ -77,5 +78,8 @@ Requisitos Não-Funcionais
    Expectativas do negócio
 
 Dê 2 exemplos de trade-offs de requisitos não funcionais:
+  A implemnentação de ser realizada utilizando  a lingguagem Java;
+  o sistema deve ajudahelp) para ajudar os usuários na utuilização do sistema.
 
 
+Definição de Engenharia de Software(programação, tempo, escala, trade-off)
